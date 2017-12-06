@@ -13,6 +13,7 @@
 		82595BB21FC906D100AE9824 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82595BB01FC906D100AE9824 /* Main.storyboard */; };
 		82595BB41FC906D100AE9824 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82595BB31FC906D100AE9824 /* Assets.xcassets */; };
 		82595BB71FC906D100AE9824 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82595BB51FC906D100AE9824 /* LaunchScreen.storyboard */; };
+		8289E0D81FD7830B00600E77 /* Beer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8289E0D71FD7830B00600E77 /* Beer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		82595BB31FC906D100AE9824 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		82595BB61FC906D100AE9824 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		82595BB81FC906D100AE9824 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8289E0D71FD7830B00600E77 /* Beer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Beer.swift; path = ../../../../Desktop/Beer.swift; sourceTree = "<group>"; };
 		9F7C1D0248DDDF5C3FE250AC /* Pods-34095.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-34095.debug.xcconfig"; path = "Pods/Target Support Files/Pods-34095/Pods-34095.debug.xcconfig"; sourceTree = "<group>"; };
 		B9C542A0C68956353511B14E /* Pods-34095.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-34095.release.xcconfig"; path = "Pods/Target Support Files/Pods-34095/Pods-34095.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -76,6 +78,7 @@
 				82595BB31FC906D100AE9824 /* Assets.xcassets */,
 				82595BB51FC906D100AE9824 /* LaunchScreen.storyboard */,
 				82595BB81FC906D100AE9824 /* Info.plist */,
+				8289E0D71FD7830B00600E77 /* Beer.swift */,
 			);
 			path = 34095;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				82595BAF1FC906D100AE9824 /* ViewController.swift in Sources */,
+				8289E0D81FD7830B00600E77 /* Beer.swift in Sources */,
 				82595BAD1FC906D100AE9824 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
