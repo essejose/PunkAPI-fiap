@@ -8,4 +8,5 @@ target '34095' do
   # Pods for 34095
 
 	pod 'Kingfisher', '~> 3.0’
+    pod 'SwiftGifOrigin', '~> 1.6.1'
 end
